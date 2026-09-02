@@ -30,11 +30,9 @@ Path B 默认比较两种制作逻辑：**方案 A｜原场景锁定融图**与*
 product-visual-studio/
 ├── SKILL.md
 ├── V1_MVP_CONTRACT.md
-├── Product_Visual_Studio_PRD_V1.md
 ├── agents/openai.yaml
 ├── references/
-├── cases/
-└── V1_FORWARD_TEST_REPORT.md
+└── cases/
 ```
 
 ## 安装
@@ -45,4 +43,4 @@ git clone https://github.com/<your-account>/product-visual-studio.git ~/.codex/s
 
 重新打开或刷新 Codex 后，使用 `$product-visual-studio` 调用。
 
-完整的长期流程、判断边界和提示词组装方法见 [Product_Visual_Studio_PRD_V1.md](Product_Visual_Studio_PRD_V1.md)。
+Skill 的运行规则和提示词组装方法见 `SKILL.md` 与 `references/`。PRD、历史契约和测试报告保留在本地项目资料中，不随安装包分发。

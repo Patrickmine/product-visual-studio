@@ -1,3 +1,10 @@
 .DS_Store
+
+# Local project documentation; kept outside the installable Skill package.
+Product_Visual_Studio_PRD_V1.md
+V1_FORWARD_TEST_REPORT.md
+V1_MVP_CONTRACT_v0.2_FROZEN.md
+V1_MVP_CONTRACT_v0.3_FROZEN.md
+cases/**/PATH_*_CASE_REPORT.md
 __pycache__/
 *.py[cod]
