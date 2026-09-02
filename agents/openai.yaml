@@ -1,0 +1,7 @@
+interface:
+  display_name: "Product Visual Studio"
+  short_description: "产品精修、指定背景融图与参考视觉重建工作流"
+  default_prompt: "Use $product-visual-studio to create and QA one fidelity-controlled product visual from my supplied images."
+
+policy:
+  allow_implicit_invocation: true
